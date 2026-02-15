@@ -21,13 +21,13 @@ This repository implements **two probabilistic modelling pipelines** on two data
 ![Learned Bayesian Structure (Fraud)](baysianNetwork_bn_pgmpy/results/bn_fraud_dag.png)
 
 ### Learned Bayesian Structure (Heart Disease)
-![Learned Bayesian Structure (Heart Disease)](quiries_gp/heart_bn_dag.png)
+![Learned Bayesian Structure (Heart Disease)](baysianNetwork_bn_pgmpy/results/heart_bn_dag.png)
 
 ### DBNs 5-fold CV Results (Fraud)
-![DBNs 5-fold CV Results (Fraud)](baysianNetwork_bn_pgmpy\results\bn_fraud_barplot.png)
+![DBNs 5-fold CV Results (Fraud)](baysianNetwork_bn_pgmpy/results/bn_fraud_barplot.png)
 
 ### GP 5-fold CV Results (Heart Disease)
-![GP 5-fold CV Results (Heart Disease)](baysianNetwork_bn_pgmpy\results\heart_cv_results.png)
+![GP 5-fold CV Results (Heart Disease)](baysianNetwork_bn_pgmpy/results/heart_cv_results.png)
 
 
 
