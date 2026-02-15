@@ -18,7 +18,7 @@ This repository implements **two probabilistic modelling pipelines** on two data
 ## Key Figures (Report Outputs)
 
 ### Learned Bayesian Structure (Fraud)
-![Learned Bayesian Structure (Fraud)](baysianNetwork_bn_pgmpy\results\bn_fraud_dag.png)
+![Learned Bayesian Structure (Fraud)](baysianNetwork_bn_pgmpy/results/bn_fraud_dag.png)
 
 ### Learned Bayesian Structure (Heart Disease)
 ![Learned Bayesian Structure (Heart Disease)](quiries_gp/heart_bn_dag.png)
